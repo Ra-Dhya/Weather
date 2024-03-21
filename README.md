@@ -1,9 +1,9 @@
-
-Introduction:
+# Weather Application
+<h2>Introduction:</h2>
 <br><br>
 Welcome to the Weather Application repository! This application provides real-time weather information for a given location. It utilizes APIs to fetch weather data and presents it in an easy-to-understand format for users.
 <br><br>
-Features:
+<h3>Features:</h3>
 <br><br>
 Real-time Weather Data: Get up-to-date weather information for any location worldwide.
 <br><br>
@@ -15,7 +15,7 @@ Responsive Design: The application is designed to be responsive, providing a sea
 <br><br>
 User-Friendly Interface: Intuitive design makes it easy for users to navigate and access weather information quickly.
 <br><br>
-Contributing:
+<h3>Contributing:</h3>
 <br><br>
 Contributions to the Weather Application are welcome! If you'd like to contribute, please follow these steps:
 <br><br>
